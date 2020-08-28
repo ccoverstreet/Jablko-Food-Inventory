@@ -2,6 +2,6 @@
 
 If you want to install the latest working version, run 
 
-`./jpm install ccoverstreet/Jablko-Interface-Status master interface_status or replace master with v1.1.0`
+`./jpm install ccoverstreet/Jablko-Food-Inventory master food_inventory`
 
-or similar tag
+or replace `master` with the desired version tag
